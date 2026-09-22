@@ -1,4 +1,4 @@
-# monolito-tipos-demo
+# ejemplo-monolito
 
 Repositorio **educativo**: la misma aplicación pequeña (gestor de tareas de
 equipo) implementada de 3 formas distintas para comparar en vivo
